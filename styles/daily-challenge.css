@@ -1,0 +1,30 @@
+h1{
+    font-size: 30px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border: 1px solid rgba(231, 226, 226, 0.99);
+    border-radius: 125px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+span {
+    color: #5d5a5a;
+}
+
+#todays-challenge {
+    color: darkred;
+    font-weight: bold;
+    font-size: 52px;
+}
+
+.index-box {
+    background-color: rgba(231, 226, 226, 0.99);
+    border-radius:7px;
+    margin: -125px 300px 0 300px;
+    padding: 120px 0 10px 0;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
